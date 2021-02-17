@@ -65,7 +65,7 @@ namespace RPGM.UI
                 transform.position = p;
                 if (pixelPerfectCamera != null && Application.isPlaying)
                 {
-                    transform.position = pixelPerfectCamera.RoundToPixel(transform.position);
+                    transform.position = pixelPerfectCamera.RoundToPixel(transform.position) ;
                 }
             }
         }

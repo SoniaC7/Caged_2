@@ -31393,7 +31393,7 @@ GameObject:
   - component: {fileID: 583131920}
   - component: {fileID: 583131919}
   m_Layer: 0
-  m_Name: QuestChicken
+  m_Name: Tampo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31446,7 +31446,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   items:
   - id: B1
-    text: Have you found my chickens?
+    text: Encara no?
     image: {fileID: 0}
     audio: {fileID: 0}
     quest: {fileID: 0}
@@ -31463,8 +31463,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 450b86d94d0b945a48b3ba1ce41dcc52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  title: Chicken Quest
-  desc: Find 10 Chickens.
+  title: Tampo
+  desc: "Conseguir un tamp\xF3"
   questInProgressConversation: {fileID: 583131920}
   questCompletedConversation: {fileID: 583131919}
   spawnMode: 0
@@ -57463,7 +57463,7 @@ PrefabInstance:
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.8369007
+      value: -7.111111
       objectReference: {fileID: 0}
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
@@ -60917,7 +60917,7 @@ PrefabInstance:
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -37.617126
+      value: -34.133335
       objectReference: {fileID: 0}
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}

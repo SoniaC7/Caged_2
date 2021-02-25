@@ -1,7 +1,9 @@
+using RPGM.Core;
+using RPGM.Gameplay;
+using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
 
 public class SceneTimer : MonoBehaviour //asigned to user to change its spawn positions depending on scene
 {
@@ -12,6 +14,7 @@ public class SceneTimer : MonoBehaviour //asigned to user to change its spawn po
 
     private Vector3[] player_spawns;
 
+    public NPCController npc;
 
     public void increaseTime (float amount_time)
     {
@@ -32,7 +35,7 @@ public class SceneTimer : MonoBehaviour //asigned to user to change its spawn po
     {
         this.time += Time.deltaTime;        
 
-        if (this.time >= this.scene_time) //if arrives at the maximum scene time change the "scene" (player's room)
+        if (this.time >= this.scene_time && npc.conv_start == false) //if arrives at the maximum scene time change the "scene" (player's room)
         {
             this.time = 0.0f; //reset time
             scene_index = (scene_index + 1) % total_scenes;

@@ -85,6 +85,7 @@ namespace RPGM.Gameplay
         public void OnTriggerExit2D(Collider2D collision)
         {
                 isInRange = false;
+            conv_start = false;
                 Debug.Log("Player not in range");
         }
         

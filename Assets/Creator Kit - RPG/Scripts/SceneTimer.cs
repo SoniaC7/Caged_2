@@ -1,13 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using RPGM.Gameplay; //namespace to use characterController2D
 
 
-public class SceneTimer : MonoBehaviour
+public class SceneTimer : MonoBehaviour //asigned to user to change its spawn positions depending on scene
 {
     public float time = 0.0f;         //time passing by
-    public float scene_time = 5.0f; //maximum scene time (5s to try it)***
+    public float scene_time = 10.0f; //maximum scene time (10s to try it)***
     public int total_scenes = 3;
     public int scene_index  = 0;    //actual scene
 
@@ -23,8 +22,10 @@ public class SceneTimer : MonoBehaviour
     {
         player_spawns = new Vector3[total_scenes];
         player_spawns[0] = new Vector3(-0.5f, 11f, 0f);
-        player_spawns[1] = new Vector3(11f, 15f, 0f);
+        player_spawns[1] = new Vector3(10f, 14f, 0f);
         player_spawns[2] = new Vector3(0f, 0f, 0f);
+
+        gameObject.transform.position = player_spawns[0]; //set first player position
     }
 
     void Update()
@@ -33,9 +34,13 @@ public class SceneTimer : MonoBehaviour
 
         if (this.time >= this.scene_time) //if arrives at the maximum scene time change the "scene" (player's room)
         {
-            //CharacterController2D.start = player_spawns[scene_index]; //***update player position
+            gameObject.transform.position = player_spawns[scene_index]; //update player position
             this.time = 0.0f; //reset time
             scene_index = (scene_index + 1) % total_scenes;
+            Debug.Log("La escena ha cambiado a la numero "+ scene_index );
         }
     }
 }
+
+//gameObject en minuscula se refiere al objeto al que este script esta asignado
+//podemos utilizar esto si por ejemplo quisieramos mover NPCs pero dandoles arrays de spawn diferentes

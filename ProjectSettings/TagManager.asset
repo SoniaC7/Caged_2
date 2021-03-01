@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - cell_southWall
+  - cell_westWall
+  - cell_eastWall
+  - cell_northWall
+  - cell_door
   layers:
   - Default
   - TransparentFX

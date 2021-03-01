@@ -32,7 +32,7 @@ namespace RPGM.Gameplay
         Vector2 currentVelocity;
         float startTime;
         float distance;
-        float velocity;
+        public float velocity;
 
         void IdleState()
         {

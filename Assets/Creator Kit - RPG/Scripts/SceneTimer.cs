@@ -8,7 +8,7 @@ using UnityEngine;
 public class SceneTimer : MonoBehaviour //asigned to user to change its spawn positions depending on scene
 {
     public float time = 0.0f;         //time passing by
-    public float scene_time = 10.0f; //maximum scene time (10s to try it)***
+    public float scene_time = 20.0f; //maximum scene time (10s to try it)***
     public int total_scenes = 3;
     public int scene_index  = 0;    //actual scene
 
@@ -26,7 +26,7 @@ public class SceneTimer : MonoBehaviour //asigned to user to change its spawn po
         player_spawns = new Vector3[total_scenes];
         player_spawns[0] = new Vector3(-0.5f, 11f, 0f);
         player_spawns[1] = new Vector3(10f, 14f, 0f);
-        player_spawns[2] = new Vector3(0f, 0f, 0f);
+        player_spawns[2] = new Vector3(10f, -3f, 0f);
 
         //gameObject.transform.position = player_spawns[0]; //set first player position
     }

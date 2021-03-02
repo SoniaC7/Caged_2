@@ -7,11 +7,12 @@ using UnityEngine;
 
 public class SceneTimer : MonoBehaviour //asigned to user to change its spawn positions depending on scene
 {
-    public float time = 0.0f;         //time passing by
-    public float scene_time = 20.0f; //maximum scene time (10s to try it)***
-    public int total_scenes = 3;
-    public int scene_index  = 0;    //actual scene
+    public float time = 0.0f;           //time passing by
+    public bool using_time = true;      //using time, bool controler
 
+    public int total_scenes;
+    public int scene_index  = 0;    //actual scene
+    public float[] scene_time;      //maximum scene time
     private Vector3[] player_spawns;
 
     public NPCController npc;
@@ -23,19 +24,29 @@ public class SceneTimer : MonoBehaviour //asigned to user to change its spawn po
 
     void Start()
     {
+        total_scenes = 3;
+
         player_spawns = new Vector3[total_scenes];
         player_spawns[0] = new Vector3(-0.5f, 11f, 0f);
         player_spawns[1] = new Vector3(10f, 14f, 0f);
         player_spawns[2] = new Vector3(10f, -3f, 0f);
+
+        //will set the incoming max times
+        scene_time = new float[total_scenes];
+        scene_time[0] = 10.0f;
+        scene_time[1] = 30.0f;
+        scene_time[2] = 10.0f;
+
 
         //gameObject.transform.position = player_spawns[0]; //set first player position
     }
 
     void Update()
     {
-        this.time += Time.deltaTime;        
+        if (using_time)
+            this.time += Time.deltaTime;        
 
-        if (this.time >= this.scene_time && npc.conv_start == false) //if arrives at the maximum scene time change the "scene" (player's room)
+        if (this.time >= this.scene_time[this.scene_index] && npc.conv_start == false) //if arrives at the maximum scene time change the "scene" (player's room)
         {
             this.time = 0.0f; //reset time
             scene_index = (scene_index + 1) % total_scenes;

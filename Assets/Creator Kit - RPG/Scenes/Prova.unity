@@ -35998,7 +35998,7 @@ MonoBehaviour:
   time: 0
   using_time: 1
   total_scenes: 3
-  scene_index: 1
+  scene_index: 0
   scene_time: []
   npc: {fileID: 1472039980}
 --- !u!850595691 &581169995
@@ -62544,7 +62544,7 @@ PrefabInstance:
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.111111
+      value: -5.4373865
       objectReference: {fileID: 0}
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
@@ -65902,7 +65902,7 @@ PrefabInstance:
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -34.133335
+      value: -26.099457
       objectReference: {fileID: 0}
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}

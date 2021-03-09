@@ -628,10 +628,10 @@ TextureImporter:
       name: rosalina_sprite_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1280
-        width: 64
-        height: 64
+        x: 18
+        y: 1282
+        width: 28
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -649,10 +649,10 @@ TextureImporter:
       name: rosalina_sprite_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1280
-        width: 64
-        height: 64
+        x: 85
+        y: 1282
+        width: 22
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,10 +670,10 @@ TextureImporter:
       name: rosalina_sprite_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 1280
-        width: 64
-        height: 64
+        x: 149
+        y: 1282
+        width: 22
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -691,10 +691,10 @@ TextureImporter:
       name: rosalina_sprite_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1280
-        width: 64
-        height: 64
+        x: 207
+        y: 1282
+        width: 34
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -712,10 +712,10 @@ TextureImporter:
       name: rosalina_sprite_4
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1280
-        width: 64
-        height: 64
+        x: 266
+        y: 1282
+        width: 44
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -733,10 +733,10 @@ TextureImporter:
       name: rosalina_sprite_5
       rect:
         serializedVersion: 2
-        x: 320
-        y: 1280
-        width: 64
-        height: 64
+        x: 330
+        y: 1282
+        width: 44
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -754,10 +754,10 @@ TextureImporter:
       name: rosalina_sprite_6
       rect:
         serializedVersion: 2
-        x: 384
-        y: 1280
-        width: 64
-        height: 64
+        x: 399
+        y: 1282
+        width: 34
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -775,10 +775,10 @@ TextureImporter:
       name: rosalina_sprite_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1216
-        width: 64
-        height: 64
+        x: 23
+        y: 1218
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -796,10 +796,10 @@ TextureImporter:
       name: rosalina_sprite_8
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1216
-        width: 64
-        height: 64
+        x: 86
+        y: 1218
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -817,10 +817,10 @@ TextureImporter:
       name: rosalina_sprite_9
       rect:
         serializedVersion: 2
-        x: 128
-        y: 1216
-        width: 64
-        height: 64
+        x: 150
+        y: 1218
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -838,10 +838,10 @@ TextureImporter:
       name: rosalina_sprite_10
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1216
-        width: 64
-        height: 64
+        x: 212
+        y: 1218
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -859,10 +859,10 @@ TextureImporter:
       name: rosalina_sprite_11
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1216
-        width: 64
-        height: 64
+        x: 274
+        y: 1218
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -880,10 +880,10 @@ TextureImporter:
       name: rosalina_sprite_12
       rect:
         serializedVersion: 2
-        x: 320
-        y: 1216
-        width: 64
-        height: 64
+        x: 338
+        y: 1218
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -901,10 +901,10 @@ TextureImporter:
       name: rosalina_sprite_13
       rect:
         serializedVersion: 2
-        x: 384
-        y: 1216
-        width: 64
-        height: 64
+        x: 404
+        y: 1218
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -922,10 +922,10 @@ TextureImporter:
       name: rosalina_sprite_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1152
-        width: 64
-        height: 64
+        x: 18
+        y: 1154
+        width: 28
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -943,10 +943,10 @@ TextureImporter:
       name: rosalina_sprite_15
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1152
-        width: 64
-        height: 64
+        x: 82
+        y: 1154
+        width: 28
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -964,10 +964,10 @@ TextureImporter:
       name: rosalina_sprite_16
       rect:
         serializedVersion: 2
-        x: 128
-        y: 1152
-        width: 64
-        height: 64
+        x: 147
+        y: 1154
+        width: 26
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -985,10 +985,10 @@ TextureImporter:
       name: rosalina_sprite_17
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1152
-        width: 64
-        height: 64
+        x: 208
+        y: 1154
+        width: 32
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1006,10 +1006,10 @@ TextureImporter:
       name: rosalina_sprite_18
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1152
-        width: 64
-        height: 64
+        x: 266
+        y: 1154
+        width: 44
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1027,10 +1027,10 @@ TextureImporter:
       name: rosalina_sprite_19
       rect:
         serializedVersion: 2
-        x: 320
-        y: 1152
-        width: 64
-        height: 64
+        x: 330
+        y: 1154
+        width: 44
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1048,10 +1048,10 @@ TextureImporter:
       name: rosalina_sprite_20
       rect:
         serializedVersion: 2
-        x: 384
-        y: 1152
-        width: 64
-        height: 64
+        x: 400
+        y: 1154
+        width: 32
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1069,10 +1069,10 @@ TextureImporter:
       name: rosalina_sprite_21
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1088
-        width: 64
-        height: 64
+        x: 21
+        y: 1090
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1090,10 +1090,10 @@ TextureImporter:
       name: rosalina_sprite_22
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1088
-        width: 64
-        height: 64
+        x: 86
+        y: 1090
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1111,10 +1111,10 @@ TextureImporter:
       name: rosalina_sprite_23
       rect:
         serializedVersion: 2
-        x: 128
-        y: 1088
-        width: 64
-        height: 64
+        x: 150
+        y: 1090
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1132,10 +1132,10 @@ TextureImporter:
       name: rosalina_sprite_24
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1088
-        width: 64
-        height: 64
+        x: 211
+        y: 1090
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1153,10 +1153,10 @@ TextureImporter:
       name: rosalina_sprite_25
       rect:
         serializedVersion: 2
-        x: 256
-        y: 1088
-        width: 64
-        height: 64
+        x: 270
+        y: 1090
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1174,10 +1174,10 @@ TextureImporter:
       name: rosalina_sprite_26
       rect:
         serializedVersion: 2
-        x: 320
-        y: 1088
-        width: 64
-        height: 64
+        x: 334
+        y: 1090
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1195,10 +1195,10 @@ TextureImporter:
       name: rosalina_sprite_27
       rect:
         serializedVersion: 2
-        x: 384
-        y: 1088
-        width: 64
-        height: 64
+        x: 403
+        y: 1090
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1216,10 +1216,10 @@ TextureImporter:
       name: rosalina_sprite_28
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1024
-        width: 64
-        height: 64
+        x: 18
+        y: 1025
+        width: 28
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1237,10 +1237,10 @@ TextureImporter:
       name: rosalina_sprite_29
       rect:
         serializedVersion: 2
-        x: 64
+        x: 81
         y: 1024
-        width: 64
-        height: 64
+        width: 28
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1258,10 +1258,10 @@ TextureImporter:
       name: rosalina_sprite_30
       rect:
         serializedVersion: 2
-        x: 128
+        x: 150
         y: 1024
-        width: 64
-        height: 64
+        width: 22
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1279,10 +1279,10 @@ TextureImporter:
       name: rosalina_sprite_31
       rect:
         serializedVersion: 2
-        x: 192
+        x: 214
         y: 1024
-        width: 64
-        height: 64
+        width: 22
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1300,10 +1300,10 @@ TextureImporter:
       name: rosalina_sprite_32
       rect:
         serializedVersion: 2
-        x: 256
+        x: 279
         y: 1024
-        width: 64
-        height: 64
+        width: 22
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1321,10 +1321,10 @@ TextureImporter:
       name: rosalina_sprite_33
       rect:
         serializedVersion: 2
-        x: 320
+        x: 343
         y: 1024
-        width: 64
-        height: 64
+        width: 22
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1342,10 +1342,10 @@ TextureImporter:
       name: rosalina_sprite_34
       rect:
         serializedVersion: 2
-        x: 384
+        x: 407
         y: 1024
-        width: 64
-        height: 64
+        width: 22
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1363,10 +1363,10 @@ TextureImporter:
       name: rosalina_sprite_35
       rect:
         serializedVersion: 2
-        x: 448
+        x: 470
         y: 1024
-        width: 64
-        height: 64
+        width: 22
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1384,10 +1384,10 @@ TextureImporter:
       name: rosalina_sprite_36
       rect:
         serializedVersion: 2
-        x: 0
-        y: 960
-        width: 64
-        height: 64
+        x: 23
+        y: 962
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1405,10 +1405,10 @@ TextureImporter:
       name: rosalina_sprite_37
       rect:
         serializedVersion: 2
-        x: 64
-        y: 960
-        width: 64
-        height: 64
+        x: 83
+        y: 962
+        width: 24
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1426,10 +1426,10 @@ TextureImporter:
       name: rosalina_sprite_38
       rect:
         serializedVersion: 2
-        x: 128
-        y: 960
-        width: 64
-        height: 64
+        x: 147
+        y: 962
+        width: 27
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1447,10 +1447,10 @@ TextureImporter:
       name: rosalina_sprite_39
       rect:
         serializedVersion: 2
-        x: 192
-        y: 960
-        width: 64
-        height: 64
+        x: 214
+        y: 962
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1468,10 +1468,10 @@ TextureImporter:
       name: rosalina_sprite_40
       rect:
         serializedVersion: 2
-        x: 256
-        y: 960
-        width: 64
-        height: 64
+        x: 271
+        y: 962
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1489,10 +1489,10 @@ TextureImporter:
       name: rosalina_sprite_41
       rect:
         serializedVersion: 2
-        x: 320
-        y: 960
-        width: 64
-        height: 64
+        x: 332
+        y: 962
+        width: 28
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1510,10 +1510,10 @@ TextureImporter:
       name: rosalina_sprite_42
       rect:
         serializedVersion: 2
-        x: 384
-        y: 960
-        width: 64
-        height: 64
+        x: 399
+        y: 962
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1531,10 +1531,10 @@ TextureImporter:
       name: rosalina_sprite_43
       rect:
         serializedVersion: 2
-        x: 448
-        y: 960
-        width: 64
-        height: 64
+        x: 470
+        y: 962
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1552,10 +1552,10 @@ TextureImporter:
       name: rosalina_sprite_44
       rect:
         serializedVersion: 2
-        x: 0
-        y: 896
-        width: 64
-        height: 64
+        x: 18
+        y: 898
+        width: 28
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1573,10 +1573,10 @@ TextureImporter:
       name: rosalina_sprite_45
       rect:
         serializedVersion: 2
-        x: 64
-        y: 896
-        width: 64
-        height: 64
+        x: 83
+        y: 898
+        width: 24
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1594,10 +1594,10 @@ TextureImporter:
       name: rosalina_sprite_46
       rect:
         serializedVersion: 2
-        x: 128
-        y: 896
-        width: 64
-        height: 64
+        x: 149
+        y: 899
+        width: 22
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1615,10 +1615,10 @@ TextureImporter:
       name: rosalina_sprite_47
       rect:
         serializedVersion: 2
-        x: 192
-        y: 896
-        width: 64
-        height: 64
+        x: 210
+        y: 899
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1636,10 +1636,10 @@ TextureImporter:
       name: rosalina_sprite_48
       rect:
         serializedVersion: 2
-        x: 256
-        y: 896
-        width: 64
-        height: 64
+        x: 277
+        y: 899
+        width: 22
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1657,10 +1657,10 @@ TextureImporter:
       name: rosalina_sprite_49
       rect:
         serializedVersion: 2
-        x: 320
-        y: 896
-        width: 64
-        height: 64
+        x: 341
+        y: 899
+        width: 22
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1678,10 +1678,10 @@ TextureImporter:
       name: rosalina_sprite_50
       rect:
         serializedVersion: 2
-        x: 384
-        y: 896
-        width: 64
-        height: 64
+        x: 405
+        y: 899
+        width: 22
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1699,10 +1699,10 @@ TextureImporter:
       name: rosalina_sprite_51
       rect:
         serializedVersion: 2
-        x: 448
-        y: 896
-        width: 64
-        height: 64
+        x: 466
+        y: 899
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1720,10 +1720,10 @@ TextureImporter:
       name: rosalina_sprite_52
       rect:
         serializedVersion: 2
-        x: 0
-        y: 832
-        width: 64
-        height: 64
+        x: 21
+        y: 834
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1741,10 +1741,10 @@ TextureImporter:
       name: rosalina_sprite_53
       rect:
         serializedVersion: 2
-        x: 64
-        y: 832
-        width: 64
-        height: 64
+        x: 85
+        y: 834
+        width: 24
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1762,10 +1762,10 @@ TextureImporter:
       name: rosalina_sprite_54
       rect:
         serializedVersion: 2
-        x: 128
-        y: 832
-        width: 64
-        height: 64
+        x: 146
+        y: 834
+        width: 27
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1783,10 +1783,10 @@ TextureImporter:
       name: rosalina_sprite_55
       rect:
         serializedVersion: 2
-        x: 192
-        y: 832
-        width: 64
-        height: 64
+        x: 209
+        y: 834
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1804,10 +1804,10 @@ TextureImporter:
       name: rosalina_sprite_56
       rect:
         serializedVersion: 2
-        x: 256
-        y: 832
-        width: 64
-        height: 64
+        x: 280
+        y: 834
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1825,10 +1825,10 @@ TextureImporter:
       name: rosalina_sprite_57
       rect:
         serializedVersion: 2
-        x: 320
-        y: 832
-        width: 64
-        height: 64
+        x: 344
+        y: 834
+        width: 28
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1846,10 +1846,10 @@ TextureImporter:
       name: rosalina_sprite_58
       rect:
         serializedVersion: 2
-        x: 384
-        y: 832
-        width: 64
-        height: 64
+        x: 408
+        y: 834
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1867,10 +1867,10 @@ TextureImporter:
       name: rosalina_sprite_59
       rect:
         serializedVersion: 2
-        x: 448
-        y: 832
-        width: 64
-        height: 64
+        x: 465
+        y: 834
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1888,10 +1888,10 @@ TextureImporter:
       name: rosalina_sprite_60
       rect:
         serializedVersion: 2
-        x: 0
-        y: 768
-        width: 64
-        height: 64
+        x: 18
+        y: 770
+        width: 28
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1909,10 +1909,10 @@ TextureImporter:
       name: rosalina_sprite_61
       rect:
         serializedVersion: 2
-        x: 64
-        y: 768
-        width: 64
-        height: 64
+        x: 82
+        y: 770
+        width: 28
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1930,10 +1930,10 @@ TextureImporter:
       name: rosalina_sprite_62
       rect:
         serializedVersion: 2
-        x: 128
-        y: 768
-        width: 64
-        height: 64
+        x: 147
+        y: 769
+        width: 26
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1951,10 +1951,10 @@ TextureImporter:
       name: rosalina_sprite_63
       rect:
         serializedVersion: 2
-        x: 192
+        x: 212
         y: 768
-        width: 64
-        height: 64
+        width: 24
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1972,10 +1972,10 @@ TextureImporter:
       name: rosalina_sprite_64
       rect:
         serializedVersion: 2
-        x: 256
-        y: 768
-        width: 64
-        height: 64
+        x: 274
+        y: 769
+        width: 28
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1993,10 +1993,10 @@ TextureImporter:
       name: rosalina_sprite_65
       rect:
         serializedVersion: 2
-        x: 320
-        y: 768
-        width: 64
-        height: 64
+        x: 338
+        y: 770
+        width: 28
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2014,10 +2014,10 @@ TextureImporter:
       name: rosalina_sprite_66
       rect:
         serializedVersion: 2
-        x: 384
-        y: 768
-        width: 64
-        height: 64
+        x: 403
+        y: 769
+        width: 26
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2035,10 +2035,10 @@ TextureImporter:
       name: rosalina_sprite_67
       rect:
         serializedVersion: 2
-        x: 448
+        x: 468
         y: 768
-        width: 64
-        height: 64
+        width: 24
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2056,10 +2056,10 @@ TextureImporter:
       name: rosalina_sprite_68
       rect:
         serializedVersion: 2
-        x: 512
-        y: 768
-        width: 64
-        height: 64
+        x: 530
+        y: 769
+        width: 28
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2077,10 +2077,10 @@ TextureImporter:
       name: rosalina_sprite_69
       rect:
         serializedVersion: 2
-        x: 0
-        y: 704
-        width: 64
-        height: 64
+        x: 23
+        y: 706
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2098,10 +2098,10 @@ TextureImporter:
       name: rosalina_sprite_70
       rect:
         serializedVersion: 2
-        x: 64
-        y: 704
-        width: 64
-        height: 64
+        x: 85
+        y: 706
+        width: 21
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2119,10 +2119,10 @@ TextureImporter:
       name: rosalina_sprite_71
       rect:
         serializedVersion: 2
-        x: 128
-        y: 704
-        width: 64
-        height: 64
+        x: 151
+        y: 707
+        width: 19
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2140,10 +2140,10 @@ TextureImporter:
       name: rosalina_sprite_72
       rect:
         serializedVersion: 2
-        x: 192
-        y: 704
-        width: 64
-        height: 64
+        x: 215
+        y: 707
+        width: 21
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2161,10 +2161,10 @@ TextureImporter:
       name: rosalina_sprite_73
       rect:
         serializedVersion: 2
-        x: 256
-        y: 704
-        width: 64
-        height: 64
+        x: 277
+        y: 706
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2182,10 +2182,10 @@ TextureImporter:
       name: rosalina_sprite_74
       rect:
         serializedVersion: 2
-        x: 320
-        y: 704
-        width: 64
-        height: 64
+        x: 340
+        y: 706
+        width: 27
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2203,10 +2203,10 @@ TextureImporter:
       name: rosalina_sprite_75
       rect:
         serializedVersion: 2
-        x: 384
-        y: 704
-        width: 64
-        height: 64
+        x: 406
+        y: 706
+        width: 24
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2224,10 +2224,10 @@ TextureImporter:
       name: rosalina_sprite_76
       rect:
         serializedVersion: 2
-        x: 448
-        y: 704
-        width: 64
-        height: 64
+        x: 471
+        y: 706
+        width: 21
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2245,10 +2245,10 @@ TextureImporter:
       name: rosalina_sprite_77
       rect:
         serializedVersion: 2
-        x: 512
-        y: 704
-        width: 64
-        height: 64
+        x: 535
+        y: 706
+        width: 19
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2266,10 +2266,10 @@ TextureImporter:
       name: rosalina_sprite_78
       rect:
         serializedVersion: 2
-        x: 0
-        y: 640
-        width: 64
-        height: 64
+        x: 18
+        y: 642
+        width: 28
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2287,10 +2287,10 @@ TextureImporter:
       name: rosalina_sprite_79
       rect:
         serializedVersion: 2
-        x: 64
-        y: 640
-        width: 64
-        height: 64
+        x: 82
+        y: 642
+        width: 28
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2308,10 +2308,10 @@ TextureImporter:
       name: rosalina_sprite_80
       rect:
         serializedVersion: 2
-        x: 128
-        y: 640
-        width: 64
-        height: 64
+        x: 147
+        y: 641
+        width: 27
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2329,10 +2329,10 @@ TextureImporter:
       name: rosalina_sprite_81
       rect:
         serializedVersion: 2
-        x: 192
-        y: 640
-        width: 64
-        height: 64
+        x: 212
+        y: 641
+        width: 25
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2350,10 +2350,10 @@ TextureImporter:
       name: rosalina_sprite_82
       rect:
         serializedVersion: 2
-        x: 256
-        y: 640
-        width: 64
-        height: 64
+        x: 274
+        y: 641
+        width: 28
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2371,10 +2371,10 @@ TextureImporter:
       name: rosalina_sprite_83
       rect:
         serializedVersion: 2
-        x: 320
-        y: 640
-        width: 64
-        height: 64
+        x: 338
+        y: 642
+        width: 28
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2392,10 +2392,10 @@ TextureImporter:
       name: rosalina_sprite_84
       rect:
         serializedVersion: 2
-        x: 384
-        y: 640
-        width: 64
-        height: 64
+        x: 402
+        y: 641
+        width: 27
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2413,10 +2413,10 @@ TextureImporter:
       name: rosalina_sprite_85
       rect:
         serializedVersion: 2
-        x: 448
-        y: 640
-        width: 64
-        height: 64
+        x: 467
+        y: 641
+        width: 25
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2434,10 +2434,10 @@ TextureImporter:
       name: rosalina_sprite_86
       rect:
         serializedVersion: 2
-        x: 512
-        y: 640
-        width: 64
-        height: 64
+        x: 530
+        y: 641
+        width: 28
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2455,10 +2455,10 @@ TextureImporter:
       name: rosalina_sprite_87
       rect:
         serializedVersion: 2
-        x: 0
-        y: 576
-        width: 64
-        height: 64
+        x: 21
+        y: 578
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2476,10 +2476,10 @@ TextureImporter:
       name: rosalina_sprite_88
       rect:
         serializedVersion: 2
-        x: 64
-        y: 576
-        width: 64
-        height: 64
+        x: 86
+        y: 578
+        width: 21
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2497,10 +2497,10 @@ TextureImporter:
       name: rosalina_sprite_89
       rect:
         serializedVersion: 2
-        x: 128
-        y: 576
-        width: 64
-        height: 64
+        x: 150
+        y: 579
+        width: 19
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2518,10 +2518,10 @@ TextureImporter:
       name: rosalina_sprite_90
       rect:
         serializedVersion: 2
-        x: 192
-        y: 576
-        width: 64
-        height: 64
+        x: 212
+        y: 579
+        width: 21
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2539,10 +2539,10 @@ TextureImporter:
       name: rosalina_sprite_91
       rect:
         serializedVersion: 2
-        x: 256
-        y: 576
-        width: 64
-        height: 64
+        x: 274
+        y: 578
+        width: 25
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2560,10 +2560,10 @@ TextureImporter:
       name: rosalina_sprite_92
       rect:
         serializedVersion: 2
-        x: 320
-        y: 576
-        width: 64
-        height: 64
+        x: 337
+        y: 578
+        width: 27
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2581,10 +2581,10 @@ TextureImporter:
       name: rosalina_sprite_93
       rect:
         serializedVersion: 2
-        x: 384
-        y: 576
-        width: 64
-        height: 64
+        x: 402
+        y: 578
+        width: 24
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2602,10 +2602,10 @@ TextureImporter:
       name: rosalina_sprite_94
       rect:
         serializedVersion: 2
-        x: 448
-        y: 576
-        width: 64
-        height: 64
+        x: 468
+        y: 578
+        width: 21
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2623,10 +2623,10 @@ TextureImporter:
       name: rosalina_sprite_95
       rect:
         serializedVersion: 2
-        x: 512
-        y: 576
-        width: 64
-        height: 64
+        x: 534
+        y: 578
+        width: 19
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2644,10 +2644,10 @@ TextureImporter:
       name: rosalina_sprite_96
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
-        width: 64
-        height: 64
+        x: 18
+        y: 514
+        width: 28
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2665,10 +2665,10 @@ TextureImporter:
       name: rosalina_sprite_97
       rect:
         serializedVersion: 2
-        x: 64
-        y: 512
-        width: 64
-        height: 64
+        x: 83
+        y: 514
+        width: 23
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2686,10 +2686,10 @@ TextureImporter:
       name: rosalina_sprite_98
       rect:
         serializedVersion: 2
-        x: 128
-        y: 512
-        width: 64
-        height: 64
+        x: 147
+        y: 514
+        width: 22
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2707,10 +2707,10 @@ TextureImporter:
       name: rosalina_sprite_99
       rect:
         serializedVersion: 2
-        x: 192
-        y: 512
-        width: 64
-        height: 64
+        x: 212
+        y: 514
+        width: 24
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2728,10 +2728,10 @@ TextureImporter:
       name: rosalina_sprite_100
       rect:
         serializedVersion: 2
-        x: 256
-        y: 512
-        width: 64
-        height: 64
+        x: 276
+        y: 514
+        width: 33
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2749,10 +2749,10 @@ TextureImporter:
       name: rosalina_sprite_101
       rect:
         serializedVersion: 2
-        x: 320
-        y: 512
-        width: 64
-        height: 64
+        x: 340
+        y: 514
+        width: 36
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2770,10 +2770,10 @@ TextureImporter:
       name: rosalina_sprite_102
       rect:
         serializedVersion: 2
-        x: 0
-        y: 448
-        width: 64
-        height: 64
+        x: 23
+        y: 450
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2791,10 +2791,10 @@ TextureImporter:
       name: rosalina_sprite_103
       rect:
         serializedVersion: 2
-        x: 64
-        y: 448
-        width: 64
-        height: 64
+        x: 82
+        y: 450
+        width: 25
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2812,10 +2812,10 @@ TextureImporter:
       name: rosalina_sprite_104
       rect:
         serializedVersion: 2
-        x: 128
-        y: 448
-        width: 64
-        height: 64
+        x: 149
+        y: 450
+        width: 23
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2833,10 +2833,10 @@ TextureImporter:
       name: rosalina_sprite_105
       rect:
         serializedVersion: 2
-        x: 192
-        y: 448
-        width: 64
-        height: 64
+        x: 204
+        y: 450
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2854,10 +2854,10 @@ TextureImporter:
       name: rosalina_sprite_106
       rect:
         serializedVersion: 2
-        x: 256
-        y: 448
-        width: 64
-        height: 64
+        x: 267
+        y: 450
+        width: 33
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2875,10 +2875,10 @@ TextureImporter:
       name: rosalina_sprite_107
       rect:
         serializedVersion: 2
-        x: 320
-        y: 448
-        width: 64
-        height: 64
+        x: 332
+        y: 450
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2896,10 +2896,10 @@ TextureImporter:
       name: rosalina_sprite_108
       rect:
         serializedVersion: 2
-        x: 0
-        y: 384
-        width: 64
-        height: 64
+        x: 18
+        y: 386
+        width: 28
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2917,10 +2917,10 @@ TextureImporter:
       name: rosalina_sprite_109
       rect:
         serializedVersion: 2
-        x: 64
-        y: 384
-        width: 64
-        height: 64
+        x: 84
+        y: 386
+        width: 23
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2938,10 +2938,10 @@ TextureImporter:
       name: rosalina_sprite_110
       rect:
         serializedVersion: 2
-        x: 128
-        y: 384
-        width: 64
-        height: 64
+        x: 148
+        y: 386
+        width: 23
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2959,10 +2959,10 @@ TextureImporter:
       name: rosalina_sprite_111
       rect:
         serializedVersion: 2
-        x: 192
-        y: 384
-        width: 64
-        height: 64
+        x: 213
+        y: 386
+        width: 23
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2980,10 +2980,10 @@ TextureImporter:
       name: rosalina_sprite_112
       rect:
         serializedVersion: 2
-        x: 256
-        y: 384
-        width: 64
-        height: 64
+        x: 277
+        y: 386
+        width: 31
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3001,10 +3001,10 @@ TextureImporter:
       name: rosalina_sprite_113
       rect:
         serializedVersion: 2
-        x: 320
-        y: 384
-        width: 64
-        height: 64
+        x: 340
+        y: 386
+        width: 34
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3022,10 +3022,10 @@ TextureImporter:
       name: rosalina_sprite_114
       rect:
         serializedVersion: 2
-        x: 0
-        y: 320
-        width: 64
-        height: 64
+        x: 21
+        y: 322
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3043,10 +3043,10 @@ TextureImporter:
       name: rosalina_sprite_115
       rect:
         serializedVersion: 2
-        x: 64
-        y: 320
-        width: 64
-        height: 64
+        x: 85
+        y: 322
+        width: 25
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3064,10 +3064,10 @@ TextureImporter:
       name: rosalina_sprite_116
       rect:
         serializedVersion: 2
-        x: 128
-        y: 320
-        width: 64
-        height: 64
+        x: 149
+        y: 322
+        width: 23
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3085,10 +3085,10 @@ TextureImporter:
       name: rosalina_sprite_117
       rect:
         serializedVersion: 2
-        x: 192
-        y: 320
-        width: 64
-        height: 64
+        x: 212
+        y: 322
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3106,10 +3106,10 @@ TextureImporter:
       name: rosalina_sprite_118
       rect:
         serializedVersion: 2
-        x: 256
-        y: 320
-        width: 64
-        height: 64
+        x: 276
+        y: 322
+        width: 33
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3127,10 +3127,10 @@ TextureImporter:
       name: rosalina_sprite_119
       rect:
         serializedVersion: 2
-        x: 320
-        y: 320
-        width: 64
-        height: 64
+        x: 340
+        y: 322
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3148,10 +3148,10 @@ TextureImporter:
       name: rosalina_sprite_120
       rect:
         serializedVersion: 2
-        x: 0
-        y: 256
-        width: 64
-        height: 64
+        x: 18
+        y: 258
+        width: 28
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3169,10 +3169,10 @@ TextureImporter:
       name: rosalina_sprite_121
       rect:
         serializedVersion: 2
-        x: 64
-        y: 256
-        width: 64
-        height: 64
+        x: 81
+        y: 257
+        width: 28
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3190,10 +3190,10 @@ TextureImporter:
       name: rosalina_sprite_122
       rect:
         serializedVersion: 2
-        x: 128
+        x: 149
         y: 256
-        width: 64
-        height: 64
+        width: 22
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3211,10 +3211,10 @@ TextureImporter:
       name: rosalina_sprite_123
       rect:
         serializedVersion: 2
-        x: 192
+        x: 212
         y: 256
-        width: 64
-        height: 64
+        width: 22
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3232,10 +3232,10 @@ TextureImporter:
       name: rosalina_sprite_124
       rect:
         serializedVersion: 2
-        x: 256
+        x: 276
         y: 256
-        width: 64
-        height: 64
+        width: 27
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3253,10 +3253,10 @@ TextureImporter:
       name: rosalina_sprite_125
       rect:
         serializedVersion: 2
-        x: 320
+        x: 340
         y: 256
-        width: 64
-        height: 64
+        width: 25
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3274,10 +3274,10 @@ TextureImporter:
       name: rosalina_sprite_126
       rect:
         serializedVersion: 2
-        x: 384
+        x: 404
         y: 256
-        width: 64
-        height: 64
+        width: 26
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3295,10 +3295,10 @@ TextureImporter:
       name: rosalina_sprite_127
       rect:
         serializedVersion: 2
-        x: 448
+        x: 468
         y: 256
-        width: 64
-        height: 64
+        width: 27
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3316,10 +3316,10 @@ TextureImporter:
       name: rosalina_sprite_128
       rect:
         serializedVersion: 2
-        x: 512
+        x: 532
         y: 256
-        width: 64
-        height: 64
+        width: 28
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3337,10 +3337,10 @@ TextureImporter:
       name: rosalina_sprite_129
       rect:
         serializedVersion: 2
-        x: 576
+        x: 596
         y: 256
-        width: 64
-        height: 64
+        width: 27
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3358,10 +3358,10 @@ TextureImporter:
       name: rosalina_sprite_130
       rect:
         serializedVersion: 2
-        x: 640
+        x: 660
         y: 256
-        width: 64
-        height: 64
+        width: 22
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3379,10 +3379,10 @@ TextureImporter:
       name: rosalina_sprite_131
       rect:
         serializedVersion: 2
-        x: 704
+        x: 724
         y: 256
-        width: 64
-        height: 64
+        width: 22
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3400,10 +3400,10 @@ TextureImporter:
       name: rosalina_sprite_132
       rect:
         serializedVersion: 2
-        x: 768
+        x: 788
         y: 256
-        width: 64
-        height: 64
+        width: 22
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3421,10 +3421,10 @@ TextureImporter:
       name: rosalina_sprite_133
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 64
-        height: 64
+        x: 23
+        y: 194
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3442,10 +3442,10 @@ TextureImporter:
       name: rosalina_sprite_134
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
-        width: 64
-        height: 64
+        x: 83
+        y: 194
+        width: 24
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3463,10 +3463,10 @@ TextureImporter:
       name: rosalina_sprite_135
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192
-        width: 64
-        height: 64
+        x: 142
+        y: 194
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3484,10 +3484,10 @@ TextureImporter:
       name: rosalina_sprite_136
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192
-        width: 64
-        height: 64
+        x: 204
+        y: 194
+        width: 35
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3505,10 +3505,10 @@ TextureImporter:
       name: rosalina_sprite_137
       rect:
         serializedVersion: 2
-        x: 256
-        y: 192
-        width: 64
-        height: 64
+        x: 268
+        y: 194
+        width: 35
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3526,10 +3526,10 @@ TextureImporter:
       name: rosalina_sprite_138
       rect:
         serializedVersion: 2
-        x: 320
-        y: 192
-        width: 64
-        height: 64
+        x: 331
+        y: 194
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3547,10 +3547,10 @@ TextureImporter:
       name: rosalina_sprite_139
       rect:
         serializedVersion: 2
-        x: 384
-        y: 192
-        width: 64
-        height: 64
+        x: 395
+        y: 194
+        width: 34
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3568,10 +3568,10 @@ TextureImporter:
       name: rosalina_sprite_140
       rect:
         serializedVersion: 2
-        x: 448
-        y: 192
-        width: 64
-        height: 64
+        x: 460
+        y: 194
+        width: 36
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3589,10 +3589,10 @@ TextureImporter:
       name: rosalina_sprite_141
       rect:
         serializedVersion: 2
-        x: 512
-        y: 192
-        width: 64
-        height: 64
+        x: 524
+        y: 194
+        width: 38
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3610,10 +3610,10 @@ TextureImporter:
       name: rosalina_sprite_142
       rect:
         serializedVersion: 2
-        x: 576
-        y: 192
-        width: 64
-        height: 64
+        x: 588
+        y: 194
+        width: 35
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3631,10 +3631,10 @@ TextureImporter:
       name: rosalina_sprite_143
       rect:
         serializedVersion: 2
-        x: 640
-        y: 192
-        width: 64
-        height: 64
+        x: 652
+        y: 194
+        width: 34
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3652,10 +3652,10 @@ TextureImporter:
       name: rosalina_sprite_144
       rect:
         serializedVersion: 2
-        x: 704
-        y: 192
-        width: 64
-        height: 64
+        x: 716
+        y: 194
+        width: 35
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3673,10 +3673,10 @@ TextureImporter:
       name: rosalina_sprite_145
       rect:
         serializedVersion: 2
-        x: 768
-        y: 192
-        width: 64
-        height: 64
+        x: 780
+        y: 194
+        width: 34
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3694,10 +3694,10 @@ TextureImporter:
       name: rosalina_sprite_146
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
-        width: 64
-        height: 64
+        x: 18
+        y: 130
+        width: 28
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3715,10 +3715,10 @@ TextureImporter:
       name: rosalina_sprite_147
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
-        width: 64
-        height: 64
+        x: 82
+        y: 129
+        width: 25
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3736,10 +3736,10 @@ TextureImporter:
       name: rosalina_sprite_148
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 64
-        height: 64
+        x: 146
+        y: 131
+        width: 24
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3757,10 +3757,10 @@ TextureImporter:
       name: rosalina_sprite_149
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128
-        width: 64
-        height: 64
+        x: 210
+        y: 130
+        width: 24
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3778,10 +3778,10 @@ TextureImporter:
       name: rosalina_sprite_150
       rect:
         serializedVersion: 2
-        x: 256
-        y: 128
-        width: 64
-        height: 64
+        x: 275
+        y: 130
+        width: 23
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3799,10 +3799,10 @@ TextureImporter:
       name: rosalina_sprite_151
       rect:
         serializedVersion: 2
-        x: 320
-        y: 128
-        width: 64
-        height: 64
+        x: 339
+        y: 130
+        width: 23
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3820,10 +3820,10 @@ TextureImporter:
       name: rosalina_sprite_152
       rect:
         serializedVersion: 2
-        x: 384
-        y: 128
-        width: 64
-        height: 64
+        x: 403
+        y: 130
+        width: 23
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3841,10 +3841,10 @@ TextureImporter:
       name: rosalina_sprite_153
       rect:
         serializedVersion: 2
-        x: 448
-        y: 128
-        width: 64
-        height: 64
+        x: 466
+        y: 130
+        width: 24
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3862,10 +3862,10 @@ TextureImporter:
       name: rosalina_sprite_154
       rect:
         serializedVersion: 2
-        x: 512
-        y: 128
-        width: 64
-        height: 64
+        x: 530
+        y: 130
+        width: 24
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3883,10 +3883,10 @@ TextureImporter:
       name: rosalina_sprite_155
       rect:
         serializedVersion: 2
-        x: 576
-        y: 128
-        width: 64
-        height: 64
+        x: 595
+        y: 130
+        width: 23
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3904,10 +3904,10 @@ TextureImporter:
       name: rosalina_sprite_156
       rect:
         serializedVersion: 2
-        x: 640
-        y: 128
-        width: 64
-        height: 64
+        x: 658
+        y: 130
+        width: 24
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3925,10 +3925,10 @@ TextureImporter:
       name: rosalina_sprite_157
       rect:
         serializedVersion: 2
-        x: 704
-        y: 128
-        width: 64
-        height: 64
+        x: 724
+        y: 130
+        width: 22
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3946,10 +3946,10 @@ TextureImporter:
       name: rosalina_sprite_158
       rect:
         serializedVersion: 2
-        x: 768
-        y: 128
-        width: 64
-        height: 64
+        x: 786
+        y: 130
+        width: 24
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3967,10 +3967,10 @@ TextureImporter:
       name: rosalina_sprite_159
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
+        x: 20
+        y: 66
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3988,10 +3988,10 @@ TextureImporter:
       name: rosalina_sprite_160
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
+        x: 84
+        y: 66
+        width: 24
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4009,10 +4009,10 @@ TextureImporter:
       name: rosalina_sprite_161
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
+        x: 145
+        y: 66
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4030,10 +4030,10 @@ TextureImporter:
       name: rosalina_sprite_162
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
+        x: 208
+        y: 66
+        width: 35
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4051,10 +4051,10 @@ TextureImporter:
       name: rosalina_sprite_163
       rect:
         serializedVersion: 2
-        x: 256
-        y: 64
-        width: 64
-        height: 64
+        x: 272
+        y: 66
+        width: 35
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4072,10 +4072,10 @@ TextureImporter:
       name: rosalina_sprite_164
       rect:
         serializedVersion: 2
-        x: 320
-        y: 64
-        width: 64
-        height: 64
+        x: 340
+        y: 66
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4093,10 +4093,10 @@ TextureImporter:
       name: rosalina_sprite_165
       rect:
         serializedVersion: 2
-        x: 384
-        y: 64
-        width: 64
-        height: 64
+        x: 402
+        y: 66
+        width: 34
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4114,10 +4114,10 @@ TextureImporter:
       name: rosalina_sprite_166
       rect:
         serializedVersion: 2
-        x: 448
-        y: 64
-        width: 64
-        height: 64
+        x: 463
+        y: 66
+        width: 36
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4135,10 +4135,10 @@ TextureImporter:
       name: rosalina_sprite_167
       rect:
         serializedVersion: 2
-        x: 512
-        y: 64
-        width: 64
-        height: 64
+        x: 525
+        y: 66
+        width: 38
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4156,10 +4156,10 @@ TextureImporter:
       name: rosalina_sprite_168
       rect:
         serializedVersion: 2
-        x: 576
-        y: 64
-        width: 64
-        height: 64
+        x: 592
+        y: 66
+        width: 35
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4177,10 +4177,10 @@ TextureImporter:
       name: rosalina_sprite_169
       rect:
         serializedVersion: 2
-        x: 640
-        y: 64
-        width: 64
-        height: 64
+        x: 657
+        y: 66
+        width: 34
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4198,10 +4198,10 @@ TextureImporter:
       name: rosalina_sprite_170
       rect:
         serializedVersion: 2
-        x: 704
-        y: 64
-        width: 64
-        height: 64
+        x: 720
+        y: 66
+        width: 35
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4219,10 +4219,10 @@ TextureImporter:
       name: rosalina_sprite_171
       rect:
         serializedVersion: 2
-        x: 768
-        y: 64
-        width: 64
-        height: 64
+        x: 785
+        y: 66
+        width: 34
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4240,10 +4240,10 @@ TextureImporter:
       name: rosalina_sprite_172
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 64
-        height: 64
+        x: 18
+        y: 1
+        width: 28
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4261,10 +4261,10 @@ TextureImporter:
       name: rosalina_sprite_173
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
+        x: 84
+        y: 2
+        width: 27
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4282,10 +4282,10 @@ TextureImporter:
       name: rosalina_sprite_174
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
+        x: 148
+        y: 2
+        width: 27
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4303,10 +4303,10 @@ TextureImporter:
       name: rosalina_sprite_175
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
+        x: 212
+        y: 2
+        width: 27
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4324,10 +4324,10 @@ TextureImporter:
       name: rosalina_sprite_176
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
+        x: 276
+        y: 3
+        width: 29
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4345,10 +4345,10 @@ TextureImporter:
       name: rosalina_sprite_177
       rect:
         serializedVersion: 2
-        x: 320
+        x: 337
         y: 0
-        width: 64
-        height: 64
+        width: 34
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

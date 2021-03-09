@@ -33,9 +33,9 @@ public class SceneTimer : MonoBehaviour //asigned to user to change its spawn po
 
         //will set the incoming max times
         scene_time = new float[total_scenes];
-        scene_time[0] = 10.0f;
-        scene_time[1] = 30.0f;
-        scene_time[2] = 10.0f;
+        scene_time[0] = 120.0f;
+        scene_time[1] = 300.0f;
+        scene_time[2] = 120.0f;
 
 
         //gameObject.transform.position = player_spawns[0]; //set first player position

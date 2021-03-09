@@ -9,6 +9,7 @@ TagManager:
   - cell_eastWall
   - cell_northWall
   - cell_door
+  - npc_collection
   layers:
   - Default
   - TransparentFX

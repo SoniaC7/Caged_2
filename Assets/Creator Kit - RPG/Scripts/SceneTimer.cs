@@ -1,5 +1,6 @@
 using RPGM.Core;
 using RPGM.Gameplay;
+
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
@@ -15,7 +16,9 @@ public class SceneTimer : MonoBehaviour //asigned to user to change its spawn po
     public float[] scene_time;      //maximum scene time
     private Vector3[] player_spawns;
 
-    public NPCController npc;
+    public GameObject[] npc_collec ;
+    public GameObject npc ;
+    public NPCController np;
 
     public void increaseTime (float amount_time)
     {
@@ -37,7 +40,9 @@ public class SceneTimer : MonoBehaviour //asigned to user to change its spawn po
         scene_time[1] = 300.0f;
         scene_time[2] = 120.0f;
 
+        npc_collec = GameObject.FindGameObjectsWithTag("npc_collection");
 
+      
         //gameObject.transform.position = player_spawns[0]; //set first player position
     }
 
@@ -46,13 +51,20 @@ public class SceneTimer : MonoBehaviour //asigned to user to change its spawn po
         if (using_time)
             this.time += Time.deltaTime;        
 
-        if (this.time >= this.scene_time[this.scene_index] && npc.conv_start == false) //if arrives at the maximum scene time change the "scene" (player's room)
+        foreach(GameObject npc in npc_collec)
         {
-            this.time = 0.0f; //reset time
-            scene_index = (scene_index + 1) % total_scenes;
-            gameObject.transform.position = player_spawns[scene_index]; //update player position
-            Debug.Log("La escena ha cambiado a la numero "+ scene_index );
+            np = npc.GetComponent<NPCController>();
+
+            if (this.time >= this.scene_time[this.scene_index] && np.conv_start == false) //if arrives at the maximum scene time change the "scene" (player's room)
+            {
+                this.time = 0.0f; //reset time
+                scene_index = (scene_index + 1) % total_scenes;
+                gameObject.transform.position = player_spawns[scene_index]; //update player position
+                Debug.Log("La escena ha cambiado a la numero "+ scene_index );
+            }
         }
+        
+          
     }
 }
 

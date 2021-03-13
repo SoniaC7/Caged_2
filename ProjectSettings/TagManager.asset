@@ -10,6 +10,8 @@ TagManager:
   - cell_northWall
   - cell_door
   - npc_collection
+  - timer
+  - npc
   layers:
   - Default
   - TransparentFX

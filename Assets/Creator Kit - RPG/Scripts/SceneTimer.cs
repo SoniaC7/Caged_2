@@ -54,7 +54,7 @@ public class SceneTimer : MonoBehaviour //asigned to user to change its spawn po
 
         player_spawns = new Vector3[total_scenes];
         player_spawns[0] = new Vector3(-0.5f, 11f, 0f);
-        player_spawns[1] = new Vector3(10f, 15f, 0f);
+        player_spawns[1] = new Vector3(11f, 16f, 0f);
         player_spawns[2] = new Vector3(10f, -3f, 0f);
 
         //will set the incoming max times

@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: spr_tileset_one-4_1
+  m_Name: spr_tileset_two_3
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -6751544884449610241, guid: c0aa88ccbfced4f77a1807071eb5b755,
+  m_Sprite: {fileID: -3960164735011500013, guid: bf1855ce655a3c147aed1286c2794818,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
@@ -34,4 +34,4 @@ MonoBehaviour:
     e33: 1
   m_InstancedGameObject: {fileID: 0}
   m_Flags: 1
-  m_ColliderType: 0
+  m_ColliderType: 1

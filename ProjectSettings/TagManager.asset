@@ -12,6 +12,9 @@ TagManager:
   - npc_collection
   - timer
   - npc
+  - items
+  - cutscene
+  - controllers
   layers:
   - Default
   - TransparentFX
@@ -23,7 +26,7 @@ TagManager:
   - 
   - Collectable
   - 
-  - 
+  - Scenes
   - 
   - 
   - 
@@ -48,4 +51,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Scenes
+    uniqueID: 347144149
     locked: 0

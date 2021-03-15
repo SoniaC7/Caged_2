@@ -12,6 +12,7 @@ namespace RPGM.UI
     {
         public Transform elementPrototype;
         public float stepSize = 1;
+        public float hideTextDuration = 10.0f;
 
         Vector2 firstItem;
         GameModel model = Schedule.GetModel<GameModel>();
@@ -46,10 +47,18 @@ namespace RPGM.UI
                 cursor.y -= stepSize;
             }
 
-            if (displayCount > 0)
+            if (displayCount > 0) {
                 sizer.Show();
+                StartCoroutine(WaitAndMakeTextDisappear(hideTextDuration));
+            }
+        
             else
                 sizer.Hide();
+        }
+        private IEnumerator WaitAndMakeTextDisappear(float waitTimeInSeconds)
+        {
+            yield return new WaitForSeconds(3.0f);
+            sizer.Hide();
         }
     }
 }

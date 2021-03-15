@@ -22,14 +22,23 @@ namespace RPGM.Gameplay
 
         public bool conv_start = false;
 
+        public bool conv_end = false;
+
         Quest activeQuest = null;
 
         Quest[] quests;
 
         GameModel model = Schedule.GetModel<GameModel>();
+       
+        public GameObject[] npc_collec;
+        public Manage_npc manage_it;
 
         public float hideTextDuration = 2.0f;
-
+        void Start()
+        {
+            npc_collec = GameObject.FindGameObjectsWithTag("npc_collection");
+            manage_it = npc_collec[0].GetComponent<Manage_npc>();
+        }
         void OnEnable()
         {
             quests = gameObject.GetComponentsInChildren<Quest>();
@@ -39,7 +48,7 @@ namespace RPGM.Gameplay
         {
             if (isInRange)
             {
-                if (!conv_start)
+                if (!conv_start && manage_it.firstNPC)
                 {
                     displayMessage = true;
                     StartCoroutine(WaitAndMakeTextDisappear(hideTextDuration));
@@ -70,6 +79,7 @@ namespace RPGM.Gameplay
                     ev.gameObject = gameObject;
                     ev.conversationItemKey = "";
                 }
+                
         }
 
         public void OnTriggerEnter2D(Collider2D collision)
@@ -86,6 +96,8 @@ namespace RPGM.Gameplay
         {
                 isInRange = false;
                 conv_start = false;
+                conv_end = true;
+                manage_it.firstNPC = false;
                 Debug.Log("Player not in range");
         }
         

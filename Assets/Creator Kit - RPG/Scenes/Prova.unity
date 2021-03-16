@@ -6028,8 +6028,8 @@ MonoBehaviour:
   player: {fileID: 0}
   npc_collection: []
   np: {fileID: 0}
-  controllers: {fileID: 0}
-  ui: {fileID: 0}
+  canvas: []
+  black_image: {fileID: 0}
   interactKey: 0
 --- !u!1 &360660332
 GameObject:
@@ -8955,7 +8955,7 @@ PrefabInstance:
     - target: {fileID: 5440847397157196389, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_Name
-      value: rubberball
+      value: Pilota
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
@@ -46217,8 +46217,8 @@ MonoBehaviour:
   player: {fileID: 0}
   npc_collection: []
   np: {fileID: 0}
-  controllers: {fileID: 0}
-  ui: {fileID: 0}
+  canvas: []
+  black_image: {fileID: 990491767}
   interactKey: 102
 --- !u!850595691 &581169995
 LightingSettings:
@@ -56880,7 +56880,7 @@ GameObject:
   - component: {fileID: 990491767}
   m_Layer: 5
   m_Name: Image
-  m_TagString: Untagged
+  m_TagString: image
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -66148,6 +66148,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: pedra
       objectReference: {fileID: 0}
+    - target: {fileID: 5440847397157196389, guid: 2a657642475934620a07fd2e829b35d7,
+        type: 3}
+      propertyPath: m_TagString
+      value: pedra
+      objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_RootOrder
@@ -66166,12 +66171,12 @@ PrefabInstance:
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 35.7
+      value: 34.89
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.2
+      value: 7.68
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
@@ -72811,7 +72816,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1750757267}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a0114b52c8b6534439c78df620f85f96, type: 3}
   m_Name: 
@@ -75246,7 +75251,7 @@ PrefabInstance:
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.3222036
+      value: -5.620659
       objectReference: {fileID: 0}
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
@@ -79661,7 +79666,7 @@ PrefabInstance:
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -25.546576
+      value: -26.979164
       objectReference: {fileID: 0}
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}

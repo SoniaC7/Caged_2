@@ -24,7 +24,8 @@ namespace RPGM.Gameplay
         public Manage_items manage_it;
         public bool displaymessage;
         public float hideTextDuration = 2.0f;
-
+        public bool pedra = false;
+        
         GameModel model = Schedule.GetModel<GameModel>();
         
         void Start()
@@ -56,17 +57,27 @@ namespace RPGM.Gameplay
                 if (Input.GetKeyDown(interactKey))
                 {
                     MessageBar.Show($"You collected: {name} x {count}");
+                    
+                    if(this.CompareTag("pedra")){
+                        pedra = true;
+                        Debug.Log("Dins de update" + pedra);
+                        //OnGUI();
+                        StartCoroutine(WaitAndMakeTextDisappear(hideTextDuration));
+                    } 
+
                     model.AddInventoryItem(this);
                     UserInterfaceAudio.OnCollect();
                     gameObject.SetActive(false);
-                    Debug.Log("Key pressed");
+                    Debug.Log("Key pressed");                    
                 }
             }
         }
+
         private IEnumerator WaitAndMakeTextDisappear(float waitTimeInSeconds)
         {
             yield return new WaitForSeconds(1.5f);
             displaymessage = false;
+            pedra = false;
         }
 
         public void OnTriggerEnter2D(Collider2D collision)
@@ -78,6 +89,7 @@ namespace RPGM.Gameplay
             }
 
         }
+
         public void OnTriggerExit2D(Collider2D collision)
         {
             isInRange = false;
@@ -91,6 +103,15 @@ namespace RPGM.Gameplay
             if (displaymessage)
             {
                 GUI.Label(new Rect(Screen.width / 2, Screen.height / 2, 200f, 200f), "Apreta E per agafar");
+            }
+            
+            Debug.Log("Dins de ONGUI" + pedra);
+            
+            if(pedra)
+            {
+                Debug.Log(pedra);
+                GUI.Label(new Rect(Screen.width / 2, Screen.height / 2, 200f, 200f), "Ja em puc tallar");
+                Debug.Log("pedra");
             }
         }
     }

@@ -21,10 +21,8 @@ public class SceneTimer : MonoBehaviour //asigned to user to change its spawn po
 
     public GameObject[] npc_collection;
     public NPCController np;
-
-    public GameObject controllers;
-    public UIController ui;
-
+    public GameObject[] canvas;
+    public Image black_image;
 
     public KeyCode interactKey; //Lletra per canviar d'escena encara que falti temps
 
@@ -74,23 +72,20 @@ public class SceneTimer : MonoBehaviour //asigned to user to change its spawn po
 
         npc_collection = GameObject.FindGameObjectsWithTag("npc");  //get all npcs
         player = GameObject.FindGameObjectsWithTag("Player")[0];    //only there is one, the player
-
-        //ui_controller = GameObject.FindGameObjectsWithTag("cutscene");
-        //uc = ui_controller[0].GetComponent<UIController>();
-        //time GUI inizialised
-        
-        
-        ui = GameObject.FindGameObjectsWithTag("controllers")[0].GetComponent<UIController>();
-        ui.blackOutSquare.SetActive(false);
+        black_image = GameObject.FindGameObjectsWithTag("image")[0].GetComponent<Image>();
+        black_image.canvasRenderer.SetAlpha(0.0f);
 
         timerText = GameObject.FindGameObjectsWithTag("timer")[0].GetComponent<Text>();
         updateTimer();
     }
     
-    private IEnumerator WaitAndMakeTextDisappear()
+    public IEnumerator WaitAndFade()
     {
-        yield return new WaitForSeconds(4.5f);
+        black_image.CrossFadeAlpha(1,0.2f,false);
+        yield return new WaitForSeconds(1f);
+        black_image.CrossFadeAlpha(0,0.2f,false);
     }
+    
 
     void Update()
     {
@@ -120,23 +115,18 @@ public class SceneTimer : MonoBehaviour //asigned to user to change its spawn po
         if ( (this.time >= this.scene_time[this.scene_index] && !chatting) || Input.GetKeyDown(interactKey)) //if arrives at the maximum scene time change the "scene" (player's room)
         {
 
-            ui.blackOutSquare.SetActive(false);
-
-            StartCoroutine(WaitAndMakeTextDisappear());
-
-            ui.blackOutSquare.SetActive(true);
-
             int next_room = scene_index + 1;
             this.time = 0.0f; //reset time
             scene_index = (scene_index + 1) % total_scenes;
-
-            //StartCoroutine(ui.FadeBlackOutSquare(false));
-
             if (next_room == 4) VisitedRoom(); //Si ja hem anat a la sala de visites la eliminem del bucle
+            
+            StartCoroutine(WaitAndFade());
+
             player.transform.position = player_spawns[scene_index];//update player position
+
             Debug.Log(player_spawns[scene_index]);
             Debug.Log("La escena ha cambiado a la numero "+ scene_index );
-           
+
         }
           
 

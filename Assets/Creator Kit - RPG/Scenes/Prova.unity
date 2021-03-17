@@ -1621,7 +1621,7 @@ MonoBehaviour:
     type: 3}
   m_PrefabInstance: {fileID: 1471503136}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 109252212}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 41613ed0111c54d85a17175edc8c4b77, type: 3}
@@ -2103,6 +2103,57 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d5abc895c284ea44aaf79bc56af78601, type: 3}
+--- !u!1 &109252212 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5440847397157196389, guid: 2a657642475934620a07fd2e829b35d7,
+    type: 3}
+  m_PrefabInstance: {fileID: 1471503136}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &109252213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 109252212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca65251f683310478b1382b9ee4ae3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversations:
+  - {fileID: 109252214}
+  interactKey: 101
+  isInRange: 0
+  displayMessage: 0
+  conv_start: 0
+  conv_end: 0
+  hideTextDuration: 2
+--- !u!114 &109252214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 109252212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acd99916876a6405980838d7635b65cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  items:
+  - id: A1
+    text: "Crec que tinc una idea de per a qu\xE8 la podria fer servir..."
+    image: {fileID: 0}
+    audio: {fileID: 0}
+    quest: {fileID: 0}
+    options: []
+  - id: A2
+    text: "No s\xE9 perqu\xE8 l'hauria d'agafar, nom\xE9s \xE9s pes mort"
+    image: {fileID: 0}
+    audio: {fileID: 0}
+    quest: {fileID: 0}
+    options: []
 --- !u!1 &111568965
 GameObject:
   m_ObjectHideFlags: 0
@@ -5963,7 +6014,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -30, y: -15}
+  m_AnchoredPosition: {x: -102.7, y: -14.5}
   m_SizeDelta: {x: 100, y: 181.2719}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &349080066
@@ -8950,18 +9001,28 @@ PrefabInstance:
         type: 3}
       propertyPath: sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 7ca00441acbc56b4ea751507901fe602,
+      objectReference: {fileID: 21300000, guid: 6b5cb095accef7b4b9bf4d7b9ebccee4,
         type: 3}
     - target: {fileID: 320233495672156186, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: manage_it
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1704651545}
     - target: {fileID: 320233495672156186, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: interactKey
       value: 101
       objectReference: {fileID: 0}
+    - target: {fileID: 320233495672156186, guid: 2a657642475934620a07fd2e829b35d7,
+        type: 3}
+      propertyPath: item_collec.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 320233495672156186, guid: 2a657642475934620a07fd2e829b35d7,
+        type: 3}
+      propertyPath: item_collec.Array.data[0]
+      value: 
+      objectReference: {fileID: 1704651543}
     - target: {fileID: 5440847397157196389, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_Name
@@ -8975,22 +9036,22 @@ PrefabInstance:
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.36099997
+      value: 0.13420011
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.352
+      value: 0.12808658
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.1
+      value: -3.3455
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 9.9
+      value: 10.1539
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
@@ -65371,7 +65432,7 @@ PrefabInstance:
     - target: {fileID: 3534774729685244126, guid: d96c0846c7d644f72bfbf301de1def5c,
         type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7948309521016487140, guid: d96c0846c7d644f72bfbf301de1def5c,
         type: 3}
@@ -66181,12 +66242,12 @@ PrefabInstance:
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 34.89
+      value: 35.1
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.68
+      value: 6.9
       objectReference: {fileID: 0}
     - target: {fileID: 5440847397157196393, guid: 2a657642475934620a07fd2e829b35d7,
         type: 3}
@@ -75269,7 +75330,7 @@ PrefabInstance:
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.111111
+      value: -4.208202
       objectReference: {fileID: 0}
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
@@ -79684,7 +79745,7 @@ PrefabInstance:
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -34.133335
+      value: -20.199368
       objectReference: {fileID: 0}
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
